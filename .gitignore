@@ -1,0 +1,26 @@
+# C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# Visual Studio Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Generated test/output data
+*.backup
